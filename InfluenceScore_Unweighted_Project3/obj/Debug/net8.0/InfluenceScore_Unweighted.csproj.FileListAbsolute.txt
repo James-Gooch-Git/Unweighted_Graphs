@@ -1,0 +1,28 @@
+C:\Users\james\source\repos\InfluenceScore_Unweighted\bin\Debug\net8.0\InfluenceScore_Unweighted.exe
+C:\Users\james\source\repos\InfluenceScore_Unweighted\bin\Debug\net8.0\InfluenceScore_Unweighted.deps.json
+C:\Users\james\source\repos\InfluenceScore_Unweighted\bin\Debug\net8.0\InfluenceScore_Unweighted.runtimeconfig.json
+C:\Users\james\source\repos\InfluenceScore_Unweighted\bin\Debug\net8.0\InfluenceScore_Unweighted.dll
+C:\Users\james\source\repos\InfluenceScore_Unweighted\bin\Debug\net8.0\InfluenceScore_Unweighted.pdb
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.AssemblyInfo.cs
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.dll
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\refint\InfluenceScore_Unweighted.dll
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.pdb
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\InfluenceScore_Unweighted.genruntimeconfig.cache
+C:\Users\james\source\repos\InfluenceScore_Unweighted\obj\Debug\net8.0\ref\InfluenceScore_Unweighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\bin\Debug\net8.0\InfluenceScore_Unweighted.exe
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\bin\Debug\net8.0\InfluenceScore_Unweighted.deps.json
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\bin\Debug\net8.0\InfluenceScore_Unweighted.runtimeconfig.json
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\bin\Debug\net8.0\InfluenceScore_Unweighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\bin\Debug\net8.0\InfluenceScore_Unweighted.pdb
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.AssemblyInfo.cs
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\refint\InfluenceScore_Unweighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.pdb
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\InfluenceScore_Unweighted.genruntimeconfig.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Unweighted_Project3\obj\Debug\net8.0\ref\InfluenceScore_Unweighted.dll
